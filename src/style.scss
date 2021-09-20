@@ -1,0 +1,11 @@
+@import "./scss/variables.scss";
+@import "./scss/basic.scss";
+@import "./scss/postList.scss";
+@import "./scss/post.scss";
+
+.global-wrapper {
+  margin: $spacing-0 auto;
+  max-width: $maxWidth-wrapper;
+  padding: $spacing-10 $spacing-5;
+}
+

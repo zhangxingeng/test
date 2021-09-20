@@ -1,0 +1,12 @@
+@import "./variables.scss";
+
+.blog-post {
+    h1 {
+        margin: $spacing-0 $spacing-0 $spacing-4 $spacing-0;
+    }
+
+    header p {
+        font-size: $fontSize-2;
+        font-family: $font-heading;
+    }
+}
